@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+build/
+sysroot/
+iso_root
+limine/
+
+*.iso
